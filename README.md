@@ -7,9 +7,13 @@ A predictive churn model extrapolates on this data to show future potential chur
 <br/>
 
 The follwing code is divide into 4 parts for better understanding of ANN model:
+
 Part 1 - Data Preprocessing
+
 Part 2 - Creating an ANN Model!
+
 Part 3 - Making predictions and evaluating the model
+
 Part 4 - Evaluating, Improving and Tuning the ANN
 
 - <b>Running the python script</b>
